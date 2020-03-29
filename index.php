@@ -5,7 +5,7 @@
     <link rel="shortcut icon" href="img/favicon.ico" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="vendor/twbs/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="vendor/twbs/bootstrap/dist/css/style.css">
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.1/css/all.css">
     <script type="text/javascript" src="vendor/components/jquery/jquery.js"></script>
     <script type="text/javascript" src="vendor/components/jquery/jquery.mask.js"></script>
     <script type="text/javascript" src="vendor/twbs/bootstrap/dist/js/script.js"></script>
@@ -19,7 +19,6 @@
             <a href="#" id="anti"><b>ANTI-FRAUDE</b></a>
         </div>
     </section>
-    <div style="height: 20px"></div>
     <section id="section_busca">
         <div class="container" id="loading_gif">
             <div>
@@ -99,10 +98,10 @@
 			</div>
 		</div>
 	</section>
-	<section id="section_completa" style="display: none">
+	<section id="section_completa" class="hide">
 		
 	</section>
-	<section id="section_anti" style="display: none">
+	<section id="section_anti" class="hide">
 		
 	</section>
 </body>
@@ -110,9 +109,10 @@
 		<div class="row footer">
 			<div class="col-md-3">
 				<ul class="social_icon">
-                    <li><a href="https://www.facebook.com/clansoftware/" target="_BLANK"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li><a href="https://github.com/clansoftware" target="_BLANK"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-                    <li><a href="https://www.linkedin.com/company/clan-software" target="_BLANK"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.facebook.com/clansoftware/" target="_BLANK"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="https://github.com/clansoftware" target="_BLANK"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/clan-software" target="_BLANK"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                    <li><a href="https://api.whatsapp.com/send?phone=554184605647" target="_BLANK"><i class="fab fa-whatsapp" aria-hidden="true"></i></a></li>
         		</ul>
         	</div>
 			<div class="titlepage col-md-6">

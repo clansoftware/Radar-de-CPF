@@ -1,8 +1,10 @@
 # PESQUISATUDO
 [Site Oficial](https://clansoftware.com.br/ "Ir para: https://clansoftware.com.br")
 <p>
-	**PesquisaTudo** é uma API pela qual conseguimos localizar uma pessoa por meio do CPF, Datanascimento e UF, sendo CPF o único campo obrigatório.
+	**PesquisaTudo** é uma API pela qual conseguimos localizar dados de uma pessoa por meio do CPF, data de nascimento e UF.
+	Sendo CPF o único campo obrigatório, o sistema executa uma pesquisa em mais de 70 sites em todo o território nacional, retornando todas informação que encontrar na internet, tais como: Whatsapp, telefone, endereço e etc.
 </p>
+	<img src="img/Screenshot(2).png" />
 <br/>
 <table border="1">
 	<tr>
