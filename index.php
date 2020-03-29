@@ -4,11 +4,11 @@
     <title>API Pesquisa Tudo</title>
     <link rel="shortcut icon" href="img/favicon.ico" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="vendor/twbs/bootstrap/dist/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="vendor/twbs/bootstrap/dist/css/style.css">
+    <link rel="stylesheet" type="text/css" href="resources/css/style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.1/css/all.css">
     <script type="text/javascript" src="vendor/components/jquery/jquery.js"></script>
     <script type="text/javascript" src="vendor/components/jquery/jquery.mask.js"></script>
-    <script type="text/javascript" src="vendor/twbs/bootstrap/dist/js/script.js"></script>
+    <script type="text/javascript" src="resources/js/script.js"></script>
 </header>
 
 <body>
