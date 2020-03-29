@@ -1,0 +1,21 @@
+{
+	"description": "Documetn by website pesquisatudo.com.br",
+	"name": "API Pesquisa Tudo",
+	"type": "library",
+	"homepage": "https://api.pesquisatudo.com.br",
+	"authors": [
+		{
+			"name": "CLAN SOFTWARE",
+			"role": "Developer"
+		}
+	],
+	"license": "MIT",
+	"require": {
+		"php": ">=7.1.0",
+		"firebase/php-jwt": "^5.0",
+      "ext-curl": "*",
+		"ext-json": "*",
+		 "components/jquery": "^3.4",
+      "twbs/bootstrap": "^4.4"
+	}
+}
