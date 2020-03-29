@@ -1,11 +1,25 @@
 # PESQUISATUDO
 [Site Oficial](https://clansoftware.com.br/ "Ir para: https://clansoftware.com.br")
+
 <p>
 	**PesquisaTudo** é uma API pela qual conseguimos localizar dados de uma pessoa por meio do CPF, data de nascimento e UF.
 	Sendo CPF o único campo obrigatório, o sistema executa uma pesquisa em mais de 70 sites em todo o território nacional, retornando todas informação que encontrar na internet, tais como: Whatsapp, telefone, endereço e etc.
 </p>
-	<img src="img/Screenshot(2).png" />
-<br/>
+
+<img src="img/Screenshot(2).png" />
+
+## Rodando Modelo
+ 
+ 1. Execute o comando: `git clone https://github.com/clansoftware/Radar-de-CPF.git`
+ 
+ 2. Acesse a pasta criada via terminal, executando o comando: `cd Radar-de-CPF`
+ 
+ 3. Execute o docker, utilize o comando: `docker-compose up -d`
+ 
+ > Pronto, agora basta ir ao navegador de sua preferencia e acessar: `http://localhost`
+
+## Implementando
+	
 <table border="1">
 	<tr>
 		<td>Campo</td>
