@@ -88,11 +88,15 @@ $(document).ready(function() {
             success: function(data) {
                 let html = '';
                 $(data).each(function(i,v){
-                    html += '<b>CPF:</b>'+v.cpf+'<br/>'
-                    html += '<b>Nome:</b>'+v.name+'<br/>'
-                    html += '<b>Celular:</b>'+v.cellphone+'<br/>'
-                    html += '<b>Telefone:</b>'+v.phone+'<br/>'
-                    html += '<b>E-mail:</b>'+v.email+'<br/>'
+                    if (v.status == 0) {
+                        alert(v.erro)
+                    } else {
+                        html += '<b>CPF:</b>'+v.cpf+'<br/>'
+                        html += '<b>Nome:</b>'+v.name+'<br/>'
+                        html += '<b>Celular:</b>'+v.cellphone+'<br/>'
+                        html += '<b>Telefone:</b>'+v.phone+'<br/>'
+                        html += '<b>E-mail:</b>'+v.email+'<br/>'
+                    }
                     // html += '<b>Endereço:</b>'+v.endereco+'<br/>'
                     // html += '<b>Número:</b>'+v.numero+'<br/>'
                     // html += '<b>Complemento:</b>'+v.complemento+'<br/>'
