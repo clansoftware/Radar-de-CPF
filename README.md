@@ -1,5 +1,5 @@
 # PESQUISATUDO
-[Site Oficial](https://clansoftware.com.br/ "Ir para: https://clansoftware.com.br")
+[Site Oficial](https://pesquisatudo.com.br/ "Ir para: https://pesquisatudo.com.br")
 
 <p>
 	**PesquisaTudo** é uma API pela qual conseguimos localizar dados de uma pessoa por meio do CPF, data de nascimento e UF.
@@ -91,8 +91,11 @@
 - [x] Email<br/>
 - [x] Celular, Whatsapp<br/>
 - [x] Telefone<br/>
+- [x] Dependentes(filhos)<br/>
+- [x] Rendimentos<br/>
+- [x] Mãe, Pai<br/>
 - [x] Endereço<br/>
-- [x] Áreas/Produtos de interesse<br/>
+- [x] Áreas/Produtos e Serviços de interesse<br/>
 <h2>Contato | Contact | Contacto</h2>
 <a href="https://api.whatsapp.com/send?phone=554184605647" target="_BLANK">(41) 8460-5647</a> 
 
